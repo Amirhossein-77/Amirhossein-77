@@ -59,12 +59,3 @@ I'm a backend developer focused primarily on the **Python ecosystem**.
 
 ---
 
-## 📫 Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
-
-</div>
-
----
